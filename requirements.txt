@@ -1,0 +1,6 @@
+cffi==1.17.1
+cryptography==43.0.3
+packaging==24.1
+pycparser==2.22
+ipykernel
+astropy
